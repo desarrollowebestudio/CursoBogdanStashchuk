@@ -1,1 +1,3 @@
 Otro archivo creado en la rama 'Feature 1'.
+
+Esta línea se agregó localmente en Visual Studio Code.
