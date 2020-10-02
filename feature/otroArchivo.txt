@@ -3,3 +3,5 @@ Esta línea se reemplazó en la rama 'feature' en Visual Studio.
 Esta línea se agregó localmente en Visual Studio Code.
 
 Esta línea se agregó en la rama 'feature2' en Visual Studio.
+
+Otra modificación en la rama 'feature2'.
